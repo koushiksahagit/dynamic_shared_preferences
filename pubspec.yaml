@@ -1,0 +1,23 @@
+name: dynamic_shared_preferences
+description: A new Flutter package to save and retrieve model objects using shared_preferences plugin
+version: 0.0.1
+homepage: https://github.com/koushiksahagit/dynamic_shared_preferences
+issue_tracker: https://github.com/koushiksahagit/dynamic_shared_preferences/issues?q=is%3Aissue+is%3Aopen
+
+environment:
+  sdk: ">=2.15.1 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.0.15
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+
+
+flutter:
+
